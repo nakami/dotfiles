@@ -4,7 +4,7 @@ A functional config for lemonbar to work with i3wm.
 
 ![lemonbar full] (https://dl.dropboxusercontent.com/u/60065791/screenshots/lemonbar/i3bar_full.png)
 
-### Requeriments
+### Requirements
 
 * Of course, [lemonbar] (https://github.com/LemonBoy/bar)
 
